@@ -1,22 +1,25 @@
 # Le Module
 
-The new (2023) module is a chord generator. It is available from BF Synth:
+This module is a chord generator. It is available from BF Synth:
 
 https://www.tindie.com/products/bfsynths/bf-01-massive-chords-le-module-01-for-ae-modular/
 
-Module power consumption:
+* Power consumption:  mA
+* Module width: 1U
+* Quickswap compatibility : Since Rev1.6
 
 ## Inputs
 
 * **Frequency** - affects the pitch of the sound
-* **Table** - changes the chords, sometimes the harmonics  of the sound.
+* **Table** - changes the chords, sometimes the harmonics of the sound.
 * **Wave** -  affects the harmonics and/or chords in the sound.
 
 ## Outputs
 
 Bottom left
-* **Bus Gate** - on early modules this is actually the bus CV derived from the midi input on the master module, usually for the pitch.
-* **Bus CV** - on early modules this is actually the bus CV derived from the midi input on the master module, usually key on/off.
+* **Bus Gate** - this is actually the bus Gate derived from the midi input on the master module, usually for the on/off. (Before Rev1.6 Bus Gate and Bus CV are inverted)
+* **Bus CV** - this is actually the bus CV derived from the midi input on the master module, usually used for the pitch. (Before Rev1.6 Bus Gate and Bus CV are inverted)
+
 Top Right
 * **Out 1** - Main output.
 * **Out 2** - duplicate output, quite useful for using a different filter &/or FX on. 
