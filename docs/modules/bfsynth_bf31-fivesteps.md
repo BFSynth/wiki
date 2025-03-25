@@ -8,8 +8,13 @@ It takes a CV as input, for example a triangle LFO, and converts it into a stepp
 
 The second input voltage (Root CV) gets added with all five values of the output CV. As such, it effectively ‘transposes’ your complete sequence. 
 
-This is [[https://www.tindie.com/products/bfsynths/bf-31-endless-arpeggios-5steps-for-ae/ |BF Synth's Tindie]] page for this module, his first not sold as a kit.
+It is available from BF Synth:
 
+https://www.tindie.com/products/bfsynths/bf-31-endless-arpeggios-5steps-for-ae/
+
+* Power consumption:  mA
+* Module width: 1U
+* Quickswap compatibility : Yes
 
 ## Inputs
 
