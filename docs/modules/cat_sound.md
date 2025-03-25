@@ -23,6 +23,8 @@ These modules emit audible sound signals, eg. from Oscillators, digital waveform
 * [µSH-RNDM-NOISE](modules/u-sh-rndm-noise.md)
 * [VCO](modules/vco.md)
 * [WAVETABLES](modules/wavetables.md)
+* [BF Synth BF-01 Le Module](/modules/bfsynth_BF01-le-module.md)
+* [BF Synth BF-02 555 VCO](/modules/2bfsynth_bf02-555.md)
 * [wonkystuff core1.æ](modules/wonkystuff_core1-ae.md)
 * [wonkystuff kæstle](modules/wonkystuff_kaestle.md)
 * [wonkystuff kæstle drum](modules/wonkystuff_kaestledrum.md)
