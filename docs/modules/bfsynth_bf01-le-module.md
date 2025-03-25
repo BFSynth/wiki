@@ -2,6 +2,8 @@
 
 This module is a chord generator. It is available from BF Synth:
 
+[[img|modules/images/bfsynth_bf01-le-module.png|100]]
+
 https://www.tindie.com/products/bfsynths/bf-01-massive-chords-le-module-01-for-ae-modular/
 
 * Power consumption:  mA
