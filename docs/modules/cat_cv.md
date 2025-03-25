@@ -29,6 +29,7 @@ Modules in this category generate or manipulate control voltages (CV) in some wa
 * [µPROBAGATE](modules/u-probagate.md)
 * [µSH-RNDM-NOISE](modules/u-sh-rndm-noise.md)
 * [µWNDCOMP](modules/u-wndcomp.md)
+* [BF Synth BF-21 2Sloth](modules/bfsynth_bf21-2sloth.md)
 * [wonkystuff BioT](modules/wonkystuff_biot.md)
 * [wonkystuff mm33](modules/wonkystuff_mm33.md)
 * [wonkystuff moco](modules/wonkystuff_moco.md)
