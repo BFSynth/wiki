@@ -1,5 +1,7 @@
 # BF-02 555 Oscillator
 
+[[img|modules/images/bfsynth_bf02-555.jpg|100]]
+
 This module is a 555 oscillator based on the famous Thomas Henry schematic. It features 4 different waveform. It is available from BF Synth:
 
 https://www.tindie.com/products/bfsynths/bf-02-analog-powerhouse-555vco-for-ae-modular/
