@@ -1,6 +1,6 @@
 # Le Module
 
-[[img|modules/images/bfsynth_bf01-le-module.png|100]]
+[[img|modules/images/bfsynth_bf01-le-module.jpg|100]]
 
 This module is a chord generator. It is available from BF Synth:
 
