@@ -1,4 +1,4 @@
-# BF-31 Endless Arpeggios: 5STEPS for AE
+# BF-31 5STEPS
 
 (formerly known as Kurt's Five Steps)
 
