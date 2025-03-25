@@ -1,5 +1,7 @@
 # BF-21 2SLOTHS
 
+[[img|modules/images/bfsynth_bf21-2sloth.jpg|100]]
+
 Slow and chaotic signal generator. 
 This module is derived from the [[bfsynth_kurts-sloth.md | Kurt's Sloth]]
 It is an adaptation of the legendary Eurorack "Sloth" circuit from Non Linear Circuits.
